@@ -1,0 +1,8 @@
+torch==1.13.0
+matplotlib==3.4.0
+
+numpy
+pandas
+scipy
+statsmodels
+tqdm

@@ -1,0 +1,7 @@
+test/
+examples/output
+MFFormer/config/config_dataset_global_streamflow_4299_basins_not_used.py
+/examples/*
+*.pyc
+*.out
+*.sh
