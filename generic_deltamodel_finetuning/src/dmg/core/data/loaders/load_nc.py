@@ -1,19 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-File Name: load_nc.py
-Description:
-
-@author: Jiangtao Liu
-liujiangtao3@gmail.com
-Anaconda 3 64bit, Python 3.7.0
-------------------------------------------
-Change Activities:
-@kraabel.nicholas@gmail.com 
-modfied for python 3.13.0 
-
-
-"""
 import numpy as np
 import pandas as pd
 import xarray as xr
